@@ -1,2 +1,2 @@
-user_input=input("Please enter text to print")
+user_input=input("Please enter text to print").upper()
 print(user_input)
